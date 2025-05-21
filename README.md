@@ -81,5 +81,5 @@ python main.py
 
 👤 Author
 Rafael Arias – [LinkedIn](https://www.linkedin.com/in/rafael-arias-navarro/)
-Engineer | AI Developer | 🇨🇴 Seeking opportunities with relocation in Europe or UK# csv-llm-assistant
+AI Developer | 🇨🇴 Seeking opportunities with relocation in Europe or UK# csv-llm-assistant
 # csv-llm-assistant
